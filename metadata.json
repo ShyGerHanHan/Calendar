@@ -1,0 +1,5 @@
+{
+  "name": "Minimal Calendar",
+  "description": "A lightweight, pure frontend calendar application with local storage support, designed for easy deployment on GitHub Pages.",
+  "requestFramePermissions": []
+}
